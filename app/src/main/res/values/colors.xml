@@ -14,7 +14,7 @@
     <color name="base">#AAAAAA</color>
     <color name="iron">#CCCCCC</color>
     <color name="white">#FFFFFF</color>
-
+    <color name="colorCaption">#000</color>
     <!--chat-->
     <!--background chat-->
     <color name="background_chat">#F9F6F2</color>
